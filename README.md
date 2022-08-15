@@ -1,5 +1,5 @@
 # Asteroid_Tracker
-Using NASA's API, track asteroids that came around in the last 24 hours
+Using NASA's API, track asteroids that came around in the last 24 hours.
  ***You'll need your own API key to try this program.***
  
  [You can get that here](https://api.nasa.gov/)
